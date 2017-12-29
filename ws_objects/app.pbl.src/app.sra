@@ -32,6 +32,6 @@ destroy(error)
 destroy(message)
 end on
 
-event open;//-
+event open;//-2
 end event
 
